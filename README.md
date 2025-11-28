@@ -34,7 +34,7 @@ Loss: **Sparse Categorical Crossentropy**
 Optimizer: **Adam**
 
 ## Results
-- Test Accuracy: **~X%**  
+- Test Accuracy: **~97.24%**  
 - Visualized training vs validation curves  
 - Displayed sample predictions using softmax probabilities  
 
